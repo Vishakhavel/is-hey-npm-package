@@ -1,4 +1,4 @@
-# this package returns 'true' if the argument passed to it is "hey" and 'false' for any other input..
+## this package returns 'true' if the argument passed to it is "hey" and 'false' for any other input..
 
 
 this package will make you rethink the defintion of useless...
@@ -6,7 +6,7 @@ this package will make you rethink the defintion of useless...
 
 
 
-## Instructions:
+## instructions:
 
 install is-hey using npm
 1. Clone this repository
