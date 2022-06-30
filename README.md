@@ -8,7 +8,7 @@ this package prints 'true' if the argument passed to it is "hey" and 'false' for
 install is-hey using npm
 1. Clone this repository
 ```bash
-npm i -s-hey
+npm i is-hey
 ```
 2. import using 'require'
 ```bash
